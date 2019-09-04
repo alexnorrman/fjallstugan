@@ -1,0 +1,174 @@
+{
+  "stationer" : [ {
+  	"name" : "DNT Storerikvollen",
+	"adress" : "Tydal Municipality, 7590 Tydal, Norge",
+	"epost" : "storerikvollen@tt.no",
+	"telefon" : "+4773510981",
+	"url" : "https://ut.no/hytte/10683/storerikvollen",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4057340?w=505&h=300&fit=full",
+	"lat" : "63.1116667",
+	"lng" : "11.9808669"
+  }, {
+    "name" : "STF Saltoluokta Fjällstation",
+	"adress" : "STF Saltoluokta Fjällstation, 98299 Gällivare",
+	"epost" : "saltoluokta@stfturist.se",
+	"telefon" : "+46101902350",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-saltoluokta-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4588937?w=505&h=300&fit=full",
+	"lat" : "67.3940797",
+	"lng" : "18.5203599"
+  }, {
+    "name" : "STF Storulvån Fjällstation",
+	"adress" : "STF Storulvån Fjällstation, 83771 Duved",
+	"epost" : "storulvan@stfturist.se",
+	"telefon" : "+46101902370",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-storulvan-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6147018?w=505&h=300&fit=full",
+	"lat" : "63.1690622",
+	"lng" : "12.3623374"
+  }, {
+    "name" : "STF Abisko Turiststation",
+	"adress" : "STF Abisko Turiststation, 981 07 Abisko",
+	"epost" : "abisko@stfturist.se",
+	"telefon" : "+46101902400",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-abisko-turiststation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4160694?w=505&h=300&fit=full",
+	"lat" : "68.3585043",
+	"lng" : "18.7836992"
+  }, {
+    "name" : "STF Kebnekaise Fjällstation",
+	"adress" : "Kebnekaise Fjällstation, 98199 Kiruna",
+	"epost" : "kebnekaise@stfturist.se",
+	"telefon" : "+46101902330",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-kebnekaise-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6147030?w=505&h=300&fit=full",
+	"lat" : "67.8680272",
+	"lng" : "18.6203805"
+  }, {
+    "name" : "STF Edsåsdalen Fjällstation & Fjällby",
+	"adress" : "Edsåsdalen 664 , 830 10 UNDERSÅKER",
+	"epost" : "boka@edsasdalen.se",
+	"telefon" : "+4664733200",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-edsasdalen-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6275087?w=505&h=300&fit=full",
+	"lat" : "63.3159123",
+	"lng" : "13.0854273"
+  }, {
+    "name" : "STF Helags Fjällstation",
+	"adress" : "STF Helags Fjällstation, 845 99 Ljungdalen",
+	"epost" : "helags@stfturist.se",
+	"telefon" : "+46101902470",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-helags-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6147024?w=505&h=300&fit=full",
+	"lat" : "62.917099",
+	"lng" : "12.505531"
+  }, {
+    "name" : "DNT Nedalshytta",
+	"adress" : "7590 Tydal, Norge",
+	"epost" : "nedalshytta@tt.no",
+	"telefon" : "+4795364603",
+	"url" : "https://ut.no/hytte/10679/nedalshytta",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4057348?w=505&h=300&fit=full",
+	"lat" : "62.97877",
+	"lng" : "12.10018"
+  }, {
+    "name" : "STF Sylarnas Fjällstation",
+	"adress" : "STF Sylarna Fjällstation, 83771 Duved",
+	"epost" : "sylarna@stfturist.se",
+	"telefon" : "+46101902420",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-sylarna-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6147022?w=505&h=300&fit=full",
+	"lat" : "63.042542",
+	"lng" : "12.2734689"
+  }, {
+    "name" : "STF Ritsem Fjällstuga",
+	"adress" : "Ritsem 4, 98299 Gällivare",
+	"epost" : "ritsem@stfturist.se",
+	"telefon" : "+46101902450",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-ritsem/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4708256?w=505&h=300&fit=full",
+	"lat" : "67.7223213",
+	"lng" : "17.4691949"
+  }, {
+    "name" : "STF Kvikkjokk Fjällstation",
+	"adress" : "Storvägen 19, 96202 Kvikkjokk",
+	"epost" : "info@kvikkjokkfjallstation.se",
+	"telefon" : "+4697121022",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-kvikkjokk-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/164543?w=505&h=300&fit=full",
+	"lat" : "66.9536832",
+	"lng" : "17.7195275"
+  }, {
+    "name" : "STF Hemavan Fjällstation",
+	"adress" : "Fjällstigen 2, 920 66 Hemavan",
+	"epost" : "info@hemavanfjallstation.se",
+	"telefon" : "+4695430027",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-hemavan-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4739471?w=505&h=300&fit=full",
+	"lat" : "65.817468",
+	"lng" : "15.090987"
+  }, {
+    "name" : "STF Grövelsjön Fjällstation",
+	"adress" : "Grövelsjövägen 495, 790 91 Idre",
+	"epost" : "grovelsjon@stfturist.se",
+	"telefon" : "+46101902430",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-grovelsjon-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6272913?w=505&h=300&fit=full",
+	"lat" : "62.098633",
+	"lng" : "12.3120579"
+  }, {
+    "name" : "STF Vålådalens Fjällstation",
+	"adress" : "Vålådalens Turiststation, 830 12 Vålådalen",
+	"epost" : "info@valadalen.se",
+	"telefon" : "+4664735300",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-valadalen-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4149668?w=505&h=300&fit=full",
+	"lat" : "63.1487782",
+	"lng" : "12.9663398"
+  }, {
+    "name" : "STF Kolåsens Fjällhotell",
+	"adress" : "Kolåsen, 83793 Järpen",
+	"epost" : "info@kolasen.se",
+	"telefon" : "+4664781017",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-kolasen-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6199762?w=505&h=300&fit=full",
+	"lat" : "63.7507273",
+	"lng" : "12.9597416"
+  }, {
+    "name" : "STF Almdalens Fjällgård",
+	"adress" : "Almdalen 105, 83562 Föllinge",
+	"epost" : "info@almdalen.com",
+	"telefon" : "+4664522028",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-almdalens-fjallgard-vandrarhem/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6157037?w=505&h=300&fit=full",
+	"lat" : "63.9957518",
+	"lng" : "14.666845"
+  }, {
+    "name" : "STF Ramundberget Fjällstation",
+	"adress" : "Vägs ände, 840 97 Bruksvallarna",
+	"epost" : "bokning@ramundberget.se",
+	"telefon" : "+46684668830",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-ramundberget-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6144743?w=505&h=300&fit=full",
+	"lat" : "62.7010745",
+	"lng" : "12.3856068"
+  }, {
+    "name" : "STF Blåhammaren fjällstation",
+	"adress" : "STF Blåhammaren Fjällstation, 83771 Duved",
+	"epost" : "blahammaren@stfturist.se",
+	"telefon" : "+46101902411",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-blahammaren-fjallstation/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/6146997?w=505&h=300&fit=full",
+	"lat" : "63.1855791",
+	"lng" : "12.1742463"
+  }, {
+    "name" : "STF Tänndalen/Skarvruet Fjällstation",
+	"adress" : "Skarvruvägen 20, 84098 Tänndalen",
+	"epost" : "info@skarvruet.com",
+	"telefon" : "+4668422111",
+	"url" : "https://www.svenskaturistforeningen.se/boende/stf-tanndalenskarvruet-vandrarhem/",
+	"imgUrl" : "https://stfturist-lajka.imgix.net/v1/image/citybreak/4222724?w=505&h=300&fit=full",
+	"lat" : "62.5403632",
+	"lng" : "12.4061855"
+  } ]
+}
